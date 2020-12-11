@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+h2 {
+  color:#17a2b8;
+  margin-bottom: 10px;
+}
+
+.cshadow{
+  border: 0;
+  box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 50%);
+  background: rgb(255, 255, 255);
+}
+
+.ishadow{
+  border: 0;
+  box-shadow: 0 0.2rem 1rem rgb(165, 160, 160)
+}
+
+.table td, .table th {
+  border-top: 0;
+}
